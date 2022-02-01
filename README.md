@@ -1,6 +1,6 @@
 <div align="center">
   Hello W0rld<br>
-  <img width="60" height="60" src="https://avatars.githubusercontent.com/u/32619816?s=400&u=f2365901fa162cb6b07fab6640743c86b9a77ba2&v=4" />
+  <img width="60" height="60" src="https://archive.is/c5Zvo/a7dd390aee9420ca28c61123cb9c24153233fa40.jpg" />
 </div>
 
 <div style="margin-bottom: 1rem; margin-top: 1rem;">
