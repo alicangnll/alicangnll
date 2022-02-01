@@ -1,6 +1,5 @@
 <div align="center">
   <b style="text-align:center;">My name is Ali Can, surname is Gonullu. I am working as Cyber Security Specialist</b>
-</div>
 <hr></hr>
 <h3>I am working on, </h3><br>
 <p>
@@ -13,3 +12,4 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
 </p>
+</div>
