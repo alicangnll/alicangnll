@@ -29,7 +29,7 @@
 <meta name="twitter:data1" content="Ali Can Gönüllü">
 <meta property="og:url" content="alicangonullu.org"/>
 </head>
-<body style="background-color: #333;">
+<body style="background: linear-gradient(110deg, #171c1b 50%, #ffed4b 50%);">
 <div align="center">
   <i style="text-align:center;">My name is Ali Can, surname is Gonullu. I am working as Cyber Security Specialist</i>
 <hr></hr>
