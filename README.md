@@ -31,7 +31,7 @@
 </head>
 <body style="background: linear-gradient(110deg, #171c1b 50%, #ffed4b 50%);">
 <div align="center">
-  <i style="text-align:center;">My name is Ali Can, surname is Gonullu. I am working as Cyber Security Specialist</i>
+  <i style="text-align:center;">I am working as Cyber Security Specialist</i>
 <hr></hr>
 <h3>I am working on, </h3><br>
 <p>
