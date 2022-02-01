@@ -45,6 +45,8 @@
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=alicangnll&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=alicangnll&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=false" /><br>
+  <a href="https://alicangonullu.org">Website</a><br>
+  <a href="mailto:alicangonullu@yahoo.com">Contact</a><br>
 </div>
 </body>
