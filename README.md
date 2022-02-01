@@ -28,8 +28,6 @@
 <meta name="twitter:label1" content="Written by">
 <meta name="twitter:data1" content="Ali Can Gönüllü">
 <meta property="og:url" content="alicangonullu.org"/>
-  <style>
-  </style>
 </head>
 <div align="center">
   <i style="text-align:center;">My name is Ali Can, surname is Gonullu. I am working as Cyber Security Specialist</i>
