@@ -29,6 +29,7 @@
 <meta name="twitter:data1" content="Ali Can Gönüllü">
 <meta property="og:url" content="alicangonullu.org"/>
 </head>
+<body>
 <div align="center">
   <i style="text-align:center;">My name is Ali Can, surname is Gonullu. I am working as Cyber Security Specialist</i>
 <hr></hr>
@@ -46,3 +47,4 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=alicangnll&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=false" />
 </div>
+</body>
