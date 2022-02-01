@@ -1,3 +1,35 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="description" content="Ali Can Gönüllü" />
+<meta name="author" content="Ali Can Gönüllü" />
+<meta name="publisher" content="Ali Can Gönüllü">
+<meta name="reply-to" content="alicangonullu1907@gmail.com">
+<meta name="keywords" content="ali,can,gonullu,blog,cve,hack,yazılım,osint,yks,dgs,software,development,hd,others,maritime,life,science,computer">
+<meta name="robots" content="all" />
+<meta name="application-name" content="Ali Can Gönüllü"/>
+
+<meta property="og:type" content="profile" />
+<meta property="og:title" content="Ali Can Gönüllü" />
+<meta property="og:description" content="Ali Can Gönüllü" />
+<meta property="og:image" content="../goruntu/259" />
+<meta property="og:url" content="https://alicangonullu.org" />
+<meta property="og:locale" content="tr_TR" />
+<meta property="og:site_name" content="Ali Can Gönüllü" />
+<meta property="profile:first_name" content="Ali Can" />
+<meta property="profile:last_name" content="Gönüllü" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Ali Can Gönüllü"/>
+<meta name="twitter:description" content="Ali Can Gönüllü"/>
+<meta name="twitter:creator" content="Ali Can Gönüllü"/>
+<meta name="twitter:site" content="https://alicangonullu.org/"/>
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="Ali Can Gönüllü">
+
+<meta property="og:url" content="alicangonullu.org"/>
+</head>
 <div align="center">
   <i style="text-align:center;">My name is Ali Can, surname is Gonullu. I am working as Cyber Security Specialist</i>
 <hr></hr>
