@@ -31,6 +31,7 @@
 </head>
 <body style="background: linear-gradient(110deg, #171c1b 50%, #ffed4b 50%);">
 <div align="center">
+  <img style="border-radius: 140px;width: 250px;height: 250px;" src="1643707002727.jpg"><br>
   <i style="text-align:center;">I am working as Cyber Security Specialist</i>
 <hr></hr>
 <h3>I am working on, </h3><br>
