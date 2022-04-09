@@ -48,7 +48,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=alicangnll&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=false" /><br>
 <p>
-  <a href="https://alicangonullu.org">Web Page</a><br>
+  <a href="url"><img src="qr.png" height="auto" width="200" style="border-radius:50%"></a><br></br>
 </p>
 </div>
 </body>
