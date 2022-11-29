@@ -45,7 +45,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=alicangnll&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=false" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=alicangnll&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=false" />
 <p>
   <a href="url"><img src="qr.png" height="auto" width="200" style="border-radius:50%"></a><br>
 </p>
