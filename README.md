@@ -33,7 +33,7 @@
 <div align="center">
   <a href="url"><img src="image.png" height="auto" width="200" style="border-radius:50%"></a><br></br>
   <i style="text-align:center;">I am working as Cyber Security Specialist</i>
-<hr></hr>
+<br>
 <h3>I am working on, </h3><br>
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white" />
