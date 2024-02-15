@@ -1,6 +1,15 @@
 # 💫 About Me:
 Working as Cyber Security Solution Architect<br>Cyber Security, Software Development and Fenerbahçe 🌿
 
+# Hall of Fame(s):
+<ul>
+  <li><b>Cisco</b> - Hall of Fame (2023)</li>
+  <li><b>CVE MITRE</b> - CVE-2022-41376 (2022)</li>
+  <li><b>pfSense</b> - pfSense Firewall 2.6.x-2.5.x Cross-site Scripting (2022)</li>
+  <li><b>CVE MITRE</b> - CVE-2019-7174 (2019)</li>
+  <li><b>Intel</b> - Certificate of Appreciation (2018)</li>
+</ul>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alicangonullu)
