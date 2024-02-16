@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working as Cyber Security Team Lead<br>Cyber Security, Software Development and CTI
+Working as <b>Cyber Security Team Lead</b><br>Cyber Security, Software Development and CTI
 
 # Hall of Fame(s):
 <ul>
