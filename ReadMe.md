@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working as Cyber Security Solution Architect<br>Cyber Security, Software Development and Fenerbahçe 🌿
+Working as Cyber Security Team Lead<br>Cyber Security, Software Development and CTI
 
 # Hall of Fame(s):
 <ul>
