@@ -14,7 +14,7 @@ I have been trying to specialize in Cyber Security since 2015.
 In 2021, I started working as a Cyber Security Specialist at Defans Security. Within the company,
 <br><br>
 <ul>
-  <li>Web Penetration Tests,</li>
+  <li>Web Penetration Tests (PHP, Python, JavaScript, ASP.NET etc.),</li>
   <li>LAN and WAN Network Penetration Tests (Servers, Storages, Firewalls, Switches, Virtual Machines, etc.),</li> 
   <li>Cloud Penetration Tests (AWS and Azure),</li>
   <li>For the SOC team with EDR / XDR configurations,</li>
