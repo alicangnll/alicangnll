@@ -9,6 +9,7 @@ I have been trying to specialize in Cyber Security since 2015.
 </ul>
 <br>
 In 2021, I started working as a Cyber Security Specialist at Defans Security. Within the company,
+<br>
 <ul>
   <li>Web Penetration Tests,</li>
   <li>LAN and WAN Network Penetration Tests (Servers, Storages, Firewalls, Switches, Virtual Machines, etc.),</li> 
