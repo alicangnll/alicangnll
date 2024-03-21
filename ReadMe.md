@@ -1,7 +1,7 @@
 # 💫 About Me:
 I have been trying to specialize in Cyber Security since 2015. 
 <ul>
-  <li>In 2018, I was first awarded the <a target="_blank" href="https://github.com/alicangnll/alicangnll/blob/main/intel.jpeg">"Hall of Fame"</a> award by <b>Intel</b> because I found a vulnerability on the Intel website.</li>
+  <li>In 2018, I was first awarded the <a target="_blank" href="https://github.com/alicangnll/alicangnll/blob/main/intel.jpeg">"Hall of Fame"</a> award by <b>Intel</b> because I found a Stored XSS vulnerability on the website.</li>
   <li>In 2019, RCE vulnerability I found in <b>Roxy Fileman 1.4.5</b> software was included in the CVE MITRE system with the code <a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2019-7174">"CVE-2019-7174"</a>.</li>
   <li>In 2019, the Cross Site Request Forgery vulnerability I found in version 1.0.0.12 of the <b>AirTies Air 5341</b> router model was included in the CVE MITRE system with the code <a target="_blank" href="https://www.exploit-db.com/exploits/46253">"CVE-2019-6967"</a>.</li>
   <li>In 2019, the Cross Site Request Forgery vulnerability I found in version 1.00 (AAXM.6)C0 of the <b>Zyxel NBG-418N v2</b> router model was included in the CVE MITRE system with the code <a target="_blank" href="https://www.exploit-db.com/exploits/46240">"CVE-2019-6710"</a>.</li>
