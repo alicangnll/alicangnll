@@ -1,6 +1,7 @@
 # 💫 About Me:
-I have been trying to specialize in Cyber Security since 2015. <a target="_blank" href="https://github.com/alicangnll/alicangnll/blob/main/intel.jpeg">I was first awarded the "Hall of Fame" award by Intel in 2017 because I found a vulnerability on the Intel website</a>.
+I have been trying to specialize in Cyber Security since 2015. 
 <ul>
+  <li>In 2018, <a target="_blank" href="https://github.com/alicangnll/alicangnll/blob/main/intel.jpeg">I was first awarded the "Hall of Fame" award by Intel because I found a vulnerability on the Intel website</a>.</li>
   <li>In 2019, RCE vulnerability I found in Roxy Fileman 1.4.5 software was included in the CVE MITER system with the code <a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2019-7174">"CVE-2019-7174"</a>.</li>
   <li>In 2022, <a target="_blank" href="https://redmine.pfsense.org/issues/13299">I found a Stored XSS vulnerability</a> in the "0.3.7" version of the "Crontab" module of the "pfSense Firewall" software, and I reported it to Netgate and helped solve the problem.</li>
   <li>In 2022, I also found various vulnerabilities in Bosch company and RMIT University, but unfortunately these vulnerabilities were considered "Informal".</li>
