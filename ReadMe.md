@@ -17,10 +17,13 @@ In 2021, I started working as a Cyber Security Specialist at Defans Security. Wi
   <li>Web Penetration Tests,</li>
   <li>LAN and WAN Network Penetration Tests (Servers, Storages, Firewalls, Switches, Virtual Machines, etc.),</li> 
   <li>Cloud Penetration Tests (AWS and Azure),</li>
-  <li>Wazuh SIEM installation</li>
   <li>For the SOC team with EDR / XDR configurations,</li>
+  <li>Wazuh SIEM installation</li>
   <li>Wazuh SIEM configurations</li> 
   <li>Wazuh SIEM rule writing and updating the rules.</li>
+  <li>Splunk SIEM installation</li>
+  <li>Splunk SIEM configurations</li> 
+  <li>Splunk SIEM rule writing and updating the rules.</li>
 </ul>
 <br>
 I also performed security tests and IDS / IPS configurations of Sophos, Fortigate and pfSense firewall devices and software.
