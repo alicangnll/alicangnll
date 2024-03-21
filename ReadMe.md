@@ -23,7 +23,7 @@ I also performed security tests and IDS / IPS configurations of Sophos, Fortigat
 <br>
 Never considering myself sufficient, I continue my path of learning in the light of my past experiences.
 
-# Hall of Fame(s):
+# 🏆 Hall of Fame(s):
 <ul>
   <li><b>Cisco</b> - Hall of Fame (2023)</li>
   <li><b>CVE MITRE</b> - CVE-2022-41376 (2022)</li>
