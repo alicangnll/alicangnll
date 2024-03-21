@@ -18,9 +18,9 @@ In 2021, I started working as a Cyber Security Specialist at Defans Security. Wi
   <li>Wazuh SIEM configurations</li> 
   <li>Wazuh SIEM rule writing and updating the rules.</li>
 </ul>
-<br><br>
+<br>
 I also performed security tests and IDS / IPS configurations of Sophos, Fortigate and pfSense firewall devices and software.
-<br><br>
+<br>
 Never considering myself sufficient, I continue my path of learning in the light of my past experiences.
 
 # Hall of Fame(s):
