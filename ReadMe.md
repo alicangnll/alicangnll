@@ -3,7 +3,7 @@ Hello World!
 <br><br>
 I have been trying to specialize in Cyber Security since 2015. I was first awarded the "Hall of Fame" award by Intel in 2017 because I found a vulnerability on the Intel website.
 <br><br>
-In 2022, I was included in the <a href="https://bugcrowd.com/ciscosecurity/hall-of-fame">"Hall of Fame" list due to the vulnerability I found on the Cisco company's website</a>. In the same year, I also found various vulnerabilities in Bosch company and RMIT University, but unfortunately these vulnerabilities were considered "Informal".
+In 2022, I was included in the <a target="_blank" href="https://bugcrowd.com/ciscosecurity/hall-of-fame">"Hall of Fame" list due to the vulnerability I found on the Cisco company's website</a>. In the same year, I also found various vulnerabilities in Bosch company and RMIT University, but unfortunately these vulnerabilities were considered "Informal".
 <br><br>
 In 2021, I started working as a Cyber Security Specialist at Defans Security. Within the company, Web Penetration Tests, Internal and External Network Penetration Tests (Servers, Storages, Firewalls, Switches, Virtual Machines, etc.), Cloud Penetration Tests (AWS and Azure), Wazuh SIEM installation for the SOC team with EDR / XDR configurations, Wazuh SIEM configurations I did Wazuh SIEM rule writing and updating the rules.
 <br><br>
