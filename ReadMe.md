@@ -3,6 +3,7 @@ I have been trying to specialize in Cyber Security since 2015.
 <ul>
   <li>In 2018, <a target="_blank" href="https://github.com/alicangnll/alicangnll/blob/main/intel.jpeg">I was first awarded the "Hall of Fame" award by Intel because I found a vulnerability on the Intel website</a>.</li>
   <li>In 2019, RCE vulnerability I found in Roxy Fileman 1.4.5 software was included in the CVE MITRE system with the code <a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2019-7174">"CVE-2019-7174"</a>.</li>
+  <li>In 2019, the Cross Site Request Forgery vulnerability I found in version 1.0.0.12 of the AirTies Air 5341 router model was included in the CVE MITER system with the code <a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2019-6967">"CVE-2019-6967"</a>.</li>
   <li>In 2022, <a target="_blank" href="https://redmine.pfsense.org/issues/13299">I found a Stored XSS vulnerability</a> in the "0.3.7" version of the "Crontab" module of the "pfSense Firewall" software, and I reported it to Netgate and helped solve the problem.</li>
   <li>In 2022, I also found various vulnerabilities in Bosch company and RMIT University, but unfortunately these vulnerabilities were considered "Informal".</li>
   <li>In 2023, I was included in the <a target="_blank" href="https://bugcrowd.com/ciscosecurity/hall-of-fame">"Hall of Fame" list due to the vulnerability I found on the Cisco company's website</a>.</li>
@@ -29,6 +30,7 @@ Never considering myself sufficient, I continue my path of learning in the light
   <li><b>Cisco</b> - Hall of Fame (2023)</li>
   <li><b>CVE MITRE</b> - CVE-2022-41376 (2022)</li>
   <li><b>pfSense</b> - pfSense Firewall 2.6.x-2.5.x Cross-site Scripting (2022)</li>
+  <li><b>CVE MITRE</b> - CVE-2019-6967 (2019)</li>
   <li><b>CVE MITRE</b> - CVE-2019-7174 (2019)</li>
   <li><b>Intel</b> - Certificate of Appreciation (2018)</li>
 </ul>
