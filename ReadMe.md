@@ -1,6 +1,4 @@
 # 💫 About Me:
-Hello World!
-<br><br>
 I have been trying to specialize in Cyber Security since 2015. <a target="_blank" href="https://github.com/alicangnll/alicangnll/blob/main/intel.jpeg">I was first awarded the "Hall of Fame" award by Intel in 2017 because I found a vulnerability on the Intel website</a>.
 <br><br>
 In 2022, I was included in the <a target="_blank" href="https://bugcrowd.com/ciscosecurity/hall-of-fame">"Hall of Fame" list due to the vulnerability I found on the Cisco company's website</a>. In the same year, I also found various vulnerabilities in Bosch company and RMIT University, but unfortunately these vulnerabilities were considered "Informal".
