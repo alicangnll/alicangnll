@@ -55,8 +55,8 @@ Never considering myself sufficient, I continue my path of learning in the light
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alicangnll&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 My Computer:
-<a target="_blank" href="https://valid.x86.fr/0jrpnj">
-<img src="https://valid.x86.fr/cache/banner/0jrpnj-5.png">
+<a target="_blank" href="https://valid.x86.fr/ffy1mv">
+<img src="https://valid.x86.fr/cache/banner/ffy1mv-5.png">
 </a>
 
 # 🌐 Socials:
