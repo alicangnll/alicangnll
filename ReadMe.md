@@ -8,7 +8,7 @@ I have been trying to specialize in Cyber Security since 2015.
   <li><b>In 2022,</b> the Cross Site Scripting vulnerability I found in the <b>Metro UI</b> software was included in the CVE MITRE system with the code <a target="_blank" href="https://nvd.nist.gov/vuln/detail/CVE-2022-41376">"CVE-2022-41376"</a></li>
   <li><b>In 2022,</b> <a target="_blank" href="https://redmine.pfsense.org/issues/13299">I found a Stored XSS vulnerability</a> in the "0.3.7" version of the "Crontab" module of the <b>pfSense Firewall</b> software, and I reported it to <b>Netgate</b> and helped solve the problem.</li>
   <li><b>In 2022,</b> I also found various vulnerabilities in <b>Bosch company and RMIT University</b>, but unfortunately these vulnerabilities were considered "Informal".</li>
-  <li><b>In 2023,</b> I was included in the <a target="_blank" href="https://bugcrowd.com/ciscosecurity/hall-of-fame">"Hall of Fame"</a> list due to the vulnerability I found on the <b>Cisco company's</b> website.</li>
+  <li><b>In 2023,</b> I was included in the <a target="_blank" href="https://bugcrowd.com/engagements/ciscosecurity/hall_of_fames">"Hall of Fame"</a> list due to the vulnerability I found on the <b>Cisco company's</b> website.</li>
   <li><b>In 2025,</b> the NTLM Spoofing vulnerability I found in Windows Server 2008 and above systems was accepted as a Moderate level vulnerability by Microsoft. However, since the vulnerability level was Moderate, CVE and Hall of Fame awards were not given.</li>
 </ul>
 <br>
