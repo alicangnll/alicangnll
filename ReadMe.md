@@ -45,6 +45,7 @@ Never considering myself sufficient, I continue my path of learning in the light
 <ul>
   <li>Webinar, How Devices Turned Into Explosives? Were the Explosions in Lebanon a Cyber ​​Attack?, Gokce Gulculer's Stream (18.09.2024, <a target="_blank" href="https://www.linkedin.com/events/cihazlarpatlay-c-yanas-ld-n-t-l7242106251831107584/theater/">Link</a>)</li>
   <li>Webinar, How Should We Start a Cyber ​​Security Career?, TOBB ETU University, Cyber ​​Security Community (02.11.2024, <a target="_blank" href="https://www.linkedin.com/posts/tobbsiberguvenlik_2-kas%C4%B1m-cumartesi-g%C3%BCn%C3%BC-siber-kariyer-konu%C5%9Fmalar%C4%B1-activity-7257986770594582529-DSIS?utm_source=combined_share_message&utm_medium=member_desktop_web">Link</a>)</li>
+  <li>Conference, IT Week (SOC and Threat Hunting), University of Karabuk (15.05.2025)</li>
 </ul>
 
 # 💻 Tech Stack:
